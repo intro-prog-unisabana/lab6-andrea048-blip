@@ -10,13 +10,13 @@ Número de horas: 7
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
-¿Sí o no? No
+¿Sí o no? no
 
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-No tengo ningun otro comentario por agregar.
+no tengo ningun otro comentario por agregar.
 
 
 /****************************************************************************
