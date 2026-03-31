@@ -1,4 +1,4 @@
-Lab 6
+lab 6
 
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea 
@@ -23,8 +23,8 @@ no tengo ningun otro comentario por agregar.
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
 https://github.com/andrea048-blip
+
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
  *  Para tu firma, escribe /s/, seguido de tu nombre.
@@ -35,5 +35,5 @@ https://github.com/andrea048-blip
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
- Esta tarea de programación representa mi propio trabajo de acuerdo
- *      con las regulaciones de la Universidad.  /s/ Andrea Santamaria Delgado
+ esta tarea de programación representa mi propio trabajo de acuerdo
+ con las regulaciones de la universidad.  /s/ andrea santamaria delgado
