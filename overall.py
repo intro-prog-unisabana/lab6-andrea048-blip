@@ -1,19 +1,10 @@
-def student_averages(students):
-    result = {}
-
-    for student, grades in students.items():
-        total = sum(grades.values())
-        count = len(grades)
-        average = round(total / count)
-        result[student] = average
-
-    return result
-
-
 def assignment_averages(students):
     result = {}
 
-    # Tomar las tareas del primer estudiante
+    # ✅ SOLUCIÓN CLAVE
+    if len(students) == 0:
+        return result
+
     first_student = next(iter(students.values()))
 
     for assignment in first_student.keys():
